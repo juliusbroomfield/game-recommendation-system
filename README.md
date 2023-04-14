@@ -12,4 +12,4 @@ The repository is split into several files:
 ## Usage
 To use the game recommender system, visit https://juliusthecreator-steam-game-recommender-app-uherl8.streamlit.app/. 
 
-The website may take some time to load, especially if there has been inactivity. Once loaded, the user can enter a game title in the search bar and the recommender system will suggest 5 similar games based on user input.
+The website may take some time to load, especially if there has been inactivity. Once loaded, the user can enter a game title in the search bar and the recommender system will suggest 10 similar games based on user input.
