@@ -10,4 +10,6 @@ The repository is split into several files:
 - **steam.csv:** This file is the dataset used to train and test the model.
 
 ## Usage
-To use the game recommender system, simply run the app.py file. The website may take some time to load, especially if there has been inactivity. Once loaded, the user can enter a game title in the search bar and the recommender system will suggest similar games based on user input.
+To use the game recommender system, visit https://juliusthecreator-steam-game-recommender-app-uherl8.streamlit.app/. 
+
+The website may take some time to load, especially if there has been inactivity. Once loaded, the user can enter a game title in the search bar and the recommender system will suggest 5 similar games based on user input.
